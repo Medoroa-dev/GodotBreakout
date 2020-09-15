@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/DuckTales Music NES - The Moon Theme.wav-1d0f6126f0d255bcaf2fc126e4fd8331.sample"
+
+[deps]
+
+source_file="res://Musics/DuckTales Music NES - The Moon Theme.wav"
+dest_files=[ "res://.import/DuckTales Music NES - The Moon Theme.wav-1d0f6126f0d255bcaf2fc126e4fd8331.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0
